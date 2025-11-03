@@ -58,4 +58,4 @@ sui client publish --gas-budget 100000000
 
 ## License
 
-See package configuration for license information.
+This code is released under the MIT License.
